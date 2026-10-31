@@ -1,6 +1,6 @@
 ---
 title: 'A Spooky Release 🎃...'
-pubDate: 2026-10-24
+pubDate: 2026-10-31
 description: 'BOO! Lumora has released its spooky halloween beta release 🎃 🍂'
 author: 'AttackVector'
 tags: ["Release"]
