@@ -1,7 +1,7 @@
 ---
-title: 'A Spooky Release...'
+title: 'A Spooky Release 🎃...'
 pubDate: 2026-10-24
-description: 'BOO! Lumora has released its spooky halloween beta release'
+description: 'BOO! Lumora has released its spooky halloween beta release 🎃 🍂'
 author: 'AttackVector'
 tags: ["Release"]
 ---
@@ -12,7 +12,7 @@ tags: ["Release"]
 .btn.solid { background: var(--accent); color: var(--accent-fg); }
 .btn.solid:hover { filter: brightness(1.07); }
 </style>
-Happy Halloween! The Lumora team has released the halloween beta release, which is very polished, and it will pave the way for a quicker release!.
+Happy Halloween 🎃🍂! The Lumora team has released the halloween beta release, which is very polished, and it will pave the way for a quicker release!.
 
 
 ## Major Improvements
